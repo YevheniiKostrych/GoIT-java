@@ -432,8 +432,8 @@ int result=0;
 
             index++;
         }
-
-        return count;
+       return count;//повернення лічильника
+        
     }
 }
 
